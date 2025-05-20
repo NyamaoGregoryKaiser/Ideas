@@ -1,0 +1,9 @@
+{
+  "name": "utility-library-awesome-platform-481",
+  "version": "0.1.0",
+  "description": "Utility library with helpful functions",
+  "main": "src/utils.js",
+  "scripts": {
+    "test": "node tests/utils.test.js"
+  }
+}
